@@ -10,6 +10,6 @@
 
 运行在 windows、linux(ubuntu)    (x86)
 
-核心就是调用的这个[https://github.com/kn007/silk-v3-decoder](silk-v3-decoder)
+核心就是调用的这个[silk-v3-decoder](https://github.com/kn007/silk-v3-decoder)
 
 # release
