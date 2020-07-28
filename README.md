@@ -8,6 +8,6 @@
 
 访问监听地址查看说明
 
-运行在 windows、linux    (x86)
+运行在 windows、linux(ubuntu)    (x86)
 
 # release
