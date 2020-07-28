@@ -8,7 +8,7 @@
 
 访问监听地址查看说明
 
-**转silk功能只能运行在 windows、linux(ubuntu)    (x86)
+**转silk功能只能运行在 windows、linux -> (x86)
 其他平台架构可以使用搜索音乐接口**
 
 核心就是调用的这个[silk-v3-decoder](https://github.com/kn007/silk-v3-decoder)
